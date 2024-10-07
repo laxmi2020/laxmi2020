@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **laxmipriyamajhi2020@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](Linkedin)
+- 📄 Know about my experiences www.linkedin.com/in/laxmipriya-majhi-406216227
 
 - ⚡ Fun fact **I am Fun**
 
