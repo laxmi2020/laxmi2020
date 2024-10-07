@@ -3,11 +3,12 @@
 <h3 align="center">I’m a passionate 🚀 Software Engineer | Network Automation Specialist | Educator & Content Creator</h3>
 <img align="right" alt="Coding" width="400" src="https://www.dice.com/binaries/large/content/gallery/dice/insights/2022/03/shutterstock_1899126973.jpg">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi2020&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmi2020" alt="laxmi2020" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mj_jyoshna" target="blank"><img src="https://img.shields.io/twitter/follow/mj_jyoshna?logo=twitter&style=for-the-badge" alt="mj_jyoshna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mj_jyoshna" target="blank"><img src="https://img.shields.io/twitter/follow/@mj_jyoshna?logo=twitter&style=for-the-badge" alt="@mj_jyoshna" /></a> </p>
 
 - 🔭 I’m currently working on **Data Center Networking, Routing & Switching**
 
@@ -19,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxmi2020](https://github.com/laxmi2020)
 
-- 📝 I regularly write articles on (https://substack.com/@laxmipriyamajhi) (https://www.linkedin.com/article/new/) (https://medium.com/@laxmipriyamajhi2020) (https://www.quora.com/profile/Laxmipriya-Majhi-10)
+- 📝 I regularly write articles on [https://substack.com/@laxmipriyamajhi , https://www.quora.com/profile/Laxmipriya-Majhi-10 , https://medium.com/@laxmipriyamajhi2020 , https://www.linkedin.com/article/new/]
 
 - 💬 Ask me about ### 💬 **Networking Concepts , Career Development in Tech**
 
@@ -29,13 +30,17 @@
 
 - ⚡ Fun fact **I am Fun**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mj_jyoshna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mj_jyoshna" height="30" width="40" /></a>
+<a href="https://twitter.com/@mj_jyoshna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mj_jyoshna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laxmipriya majhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxmipriya majhi" height="30" width="40" /></a>
-<a href="https://instagram.com/mj_jyoshnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mj_jyoshnaa" height="30" width="40" /></a>
-<a href="https://medium.com/laxmipriyamajhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="laxmipriyamajhi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/laxmipriyamajhi7839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laxmipriyamajhi7839" height="30" width="40" /></a>
+<a href="https://instagram.com/@mj_jyoshnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mj_jyoshnaa" height="30" width="40" /></a>
+<a href="https://medium.com/@laxmipriyamajhi2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laxmipriyamajhi2020i" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@laxmipriyamajhi7839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@laxmipriyamajhi7839" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/laxmipriyamajhi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laxmipriyamajhi1" height="30" width="40" /></a>
 </p>
 
