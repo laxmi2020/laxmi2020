@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxmi2020](https://github.com/laxmi2020)
 
-- 📝 I regularly write articles on [MyNewsletter , Linkedin ,Quora , Medium](MyNewsletter , Linkedin ,Quora , Medium)
+- 📝 I regularly write articles on (https://substack.com/@laxmipriyamajhi) https://www.linkedin.com/article/new/ https://medium.com/@laxmipriyamajhi2020 https://www.quora.com/profile/Laxmipriya-Majhi-10
 
 - 💬 Ask me about ### 💬 **Networking Concepts , Career Development in Tech**
 
